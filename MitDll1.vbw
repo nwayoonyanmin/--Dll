@@ -1,0 +1,15 @@
+MitReport = 22, 22, 658, 419, C
+modMitDll1 = 44, 44, 774, 190, 
+MitDualFont = 110, 110, 746, 507, C
+MitUniversalClassRDO = 44, 44, 708, 314, C
+MITConnection = 0, 0, 642, 336, 
+mitLocalDatabase = 154, 154, 274, 502, C
+MitGrid = 0, 0, 771, 443, C
+MitUniversalClass = 26, 79, 678, 350, 
+frmSecurity = 66, 66, 186, 418, C, 110, 110, 774, 380, C
+frmUsers = 110, 115, 639, 575, C, 22, 22, 752, 168, C
+bwrUniversal = 88, 88, 730, 436, C, 66, 66, 730, 336, C
+MitGeneral = 22, 22, 142, 358, C
+MitAdoGrid = 66, 66, 705, 510, C
+mitSecurity = 44, 44, 680, 441, C
+frmRpt = 132, 132, 768, 529, C, 88, 88, 752, 358, C

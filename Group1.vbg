@@ -1,0 +1,4 @@
+VBGROUP 5.0
+StartupProject=..\..\manthiri\ManThiri.vbp
+Project=MitDll1.vbp
+Project=..\..\ZMT-DLL-Prj\MI-S-DLL\MITSpecialDLL.vbp
